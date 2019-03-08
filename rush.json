@@ -255,8 +255,9 @@
    */
   "projects": [
     {
-      "packageName": "dockmail",
-      "projectFolder": "apps/dockmail"
+      "packageName": "@devforey/dockmail",
+      "projectFolder": "apps/dockmail",
+      "shouldPublish": true
     }
     // {
     //   /**
